@@ -40,7 +40,7 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Communication
-  percentage: 90
+  percentage: 95
   color: blue
 - name: Team Work
   percentage: 90
@@ -49,7 +49,7 @@ softSkills:
   percentage: 100
   color: green
 - name: Active Learning
-  percentage: 95
+  percentage: 100
   color: organge
 - name: Curiosity
   percentage: 95
