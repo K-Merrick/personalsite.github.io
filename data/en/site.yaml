@@ -1,0 +1,23 @@
+# Copyright Notice
+copyright: © 2022 Copyright
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Kevin Merrick Olivier Portfolio - Machine Learning & Data Science
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: Linkedin
+  url: https://www.linkedIn.com/in/kevin-m-olivier/
+- name: GitHub
+  url: https://github.com/K-Merrick
+- name: Kaggle
+  url: https://www.kaggle.com/merrickolivier
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Kevin's Portfolio
+  type: website
+  description: Kevin Merrick Olivier Portfolio - Machine Learning & Data Science
+  image: images/author/Kevin_Olivier.jpg
+  url: https://kmo.github.io

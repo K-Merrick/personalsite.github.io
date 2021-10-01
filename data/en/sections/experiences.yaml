@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Practicum by Yandex.
+    url: "https://practicum.yandex.com"
+    location: Remote
+    # company overview
+    overview: Created by engineers from tech company Yandex, Practicum is a 30-46 week, online coding bootcamp offering tracks in Data Science, Data Analysis, and Web Development and aimed at sparking career change.
+  positions:
+  - designation: Senior Student
+    start: April, 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: 
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Aiding tutors and instructors in answering students' technical questions.
+    - Helping students to complete their data science projects.
+
+- company:
+    name: Prudential Associates
+    url: "https://http://www.prudentialassociates.com/"
+    location: Rockville, Maryland
+    overview: Prudential Associates is a cybersecurity and digital forensics company, offering a wide range of services within the top-level categories of cybersecurity, digital forensics, investigations, and network security.
+  positions:
+  - designation: Investigative Specialist
+    start: January, 2015
+    end: 
+    responsibilities:
+    - Head of the Background Checks department.
+    - Conducting various levels of background checks and interfacing with clients, some of whom represent Fortune 500 companies.
+    - Advising CEO and President on capabilities with regard to various project-types, such as person location, background investigations, web-presence investigations, etc.
+
+- company:
+    name: University of Aberdeen
+    url: "https://www.abdn.ac.uk/"
+    location: Aberdeen, Scotland
+    overview: The University of Aberdeen is one of Scotland's ancient universities (founded in 1495), and is ranked 158th in the World University Rankings 2022.
+  positions:
+  - designation: Teaching Assistant
+    start: 2017
+    end: 2018
+    responsibilities:
+    - Developing weekly lesson plans for courses on ethics and contraversial questions.
+    - Delivering numerous weekly tutorials in one-hour blocks.
+    - Grading students' essays and offering suggestions for improvements.
+
+- company:
+    name: Aberdeen Philosophy Society
+    url: "https://www.ausa.org.uk/societies/society/philosophy/"
+    location: Aberdeen, Scotland
+    overview: The AU Philosphy Society aims to facilitate discussion and thought in an informal setting. They host weekly discussion nights on a variety of philosophical topics.
+  positions:
+  - designation: Postgraduate Representative
+    start: 2017
+    end: 2018
+    responsibilities:
+    - Representing postgraduate students on the philosophy society's committee.
+    - Organizing and facilitating weekly discussions on philosophical topics in such a way that is accessible to both philosophy students and those unfamiliar with the topics.
+
+- company: 
+    name: Nexus Student Association
+    url: "https://www.nexusstudentassociation.com/"
+    location: Groningen, Netherlands
+    overview: Nexus Student Association is a study association founded in 2009, dedicated to students studying the International and European Law LLB programme at the University of Groningen.  
+  positions:
+  - designation: President
+    start: June, 2013
+    end: June, 2014
+    responsibilities:
+    - Setting the course for the organization for the year and overseeing each committee's progress.
+    - Hosting various events, from weekly borrels for members to talks given by prominent legal professionals.
+    - Chairing quarterly general assemblies where members are updated on the organization's development and are able to offer suggestions for events and internal changes.

@@ -1,0 +1,148 @@
+# section information
+section:
+  name: Certifications / Recommendations
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Recommendation Letter
+  timeline: "August 2021"
+  organization:
+    name: Practicum by Yandex
+    url: https://practicum.yandex.com/
+  courseOverview: Recommendation letter from the Practicum by Yandex administrators for the diligence with which I completed by degree and for my role as a Senior Student.
+  certificateURL: "https://drive.google.com/file/d/1mG7BhNuG0a8dzB3M5nwKRXP1eb0dhQrZ/view?usp=sharing"
+
+- name: Accelerating Deep Learning with GPUs
+  timeline: "September 2021"
+  organization:
+    name: Cognitive Class
+    url: https://cognitiveclass.ai/
+  courseOverview: Explain what GPU is, how it can speed up the computation, and its advantages in comparison with CPUs. Implement deep learning networks on GPUs. Train and deploy deep learning networks for image and video classification as well as for object recognition.
+  certificateURL: "https://courses.cognitiveclass.ai/certificates/bfce0e8532cf4c95805b42919ff87dcb"
+
+- name: Intermediate Machine Learning
+  timeline: "August 2021"
+  organization:
+    name: Kaggle
+    url: https://www.kaggle.com/
+  courseOverview: Learn how to handle missing values, non-numeric values, data leakage, and other preprocessing necessities. Also learn how to buld pipelines, perform cross-validation, and use gradient-boosting algorithms.
+  certificateURL: "https://www.kaggle.com/learn/certification/merrickolivier/intermediate-machine-learning"
+
+- name: Intro to Machine Learning
+  timeline: "August 2021"
+  organization:
+    name: Kaggle
+    url: https://www.kaggle.com/
+  courseOverview: Learn the core ideas in machine learning. This course is designed to train individuals with limited background in machine learning to develop their first models and perform model validation.
+  certificateURL: "https://www.kaggle.com/learn/certification/merrickolivier/intro-to-machine-learning"
+
+- name: Python
+  timeline: "August 2021"
+  organization:
+    name: Kaggle
+    url: https://www.kaggle.com/
+  courseOverview: Learn how to use Python for data science. Topics covered include building functions, data structures, loops and list comprehension, working with string and dictionaries, and working with external libraries.
+  certificateURL: "https://www.kaggle.com/learn/certification/merrickolivier/python"
+
+- name: Tutor Academy Master Course
+  timeline: "May 2021"
+  organization:
+    name: Practicum by Yandex
+    url: https://practicum.yandex.com/
+  courseOverview: This master course was designed specifically for tutors and senior students at Yandex. The course covers all topics pertinent to providing student with the best learning environment and experience possible, with an emphasis on interacting with students in a supportive and productive manner.
+  certificateURL: "https://drive.google.com/file/d/1m8X1-R5DyKZGHWVsn1F4RJJjp0l_FDC-/view?usp=sharing"
+
+- name: Introduction to Git and Github
+  timeline: "January 2021"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: Understand why version control is a fundamental tool for coding and collaboration. Use and interact with GitHub. Install and run Git on your local machine. Collaborate with others through remote repositories.
+  certificateURL: "https://coursera.org/share/255a989ac6eeaa293bc7c0bf6f026bd6"
+
+- name: Python Basics
+  timeline: "November 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This course introduces the basics of Python 3, including conditional execution and iteration as control structures, and strings and lists as data structures. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/EFQAJQ3JYKXY"
+
+- name: Python Classes and Inheritance
+  timeline: "November 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This course introduces classes, instances, and inheritance. It teaches students how to use classes to represent data in concise and natural ways, as well as how to override built-in methods and how to create "inherited" classes that reuse functionality. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/M59LFQM9T6AF"
+
+- name: Capstone - Retrieving, Processing, and Visualizing Data with Python
+  timeline: "November 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This capstone of the Python programming specialization requires students to build a series of applications to retrieve, process, and visualize data using python.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/WGMYSNRF9AQB"
+
+- name: Programming for Everybody
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: Install Python and write your first program. Use variables to store, retrieve and calculate information. Describe the basics of the Python programming language. Utilize core programming tools such as functions and loops. 
+  certificateURL: "https://coursera.org/share/df426fd382ccafe60765970f2647f825"
+
+- name: Python Data Structures
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: Explain the principles of data structures & how they are used. Store data as key/value pairs using Python dictionaries. Create programs that are able to read and write data from files. Accomplish multi-step tasks like sorting or looping using tuples.
+  certificateURL: "https://coursera.org/share/7a346b0b5d26d0ee606e3bf9a10d2ece"
+
+- name: Python for Everybody Specialization
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data. Use variables to store, retrieve and calculate information while utilizing core programmign tools such as functions and loops.
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/SWK5NNKLEDJR"
+
+- name: SQL for Data Science
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This course was designed to give students a primer in the fundamentals of SQL and working with data so that they can begin analyzing it for data science purposes. Course includes topics on filtering, sorting, and calculating data with SQL; subqueries and joins in SQL; and, modifying and analyzing data with SQL.  
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/8B85A4LG38AE"
+
+- name: Using Databases with Python
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This course introduces students to the basics of the SQL, as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. The course uses SQLite3 as its database. It also trains students to build web crawlers and multi-step data gathering and visualization processes.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/VZ6L885NXTCH"
+
+- name: Using Python to Access Web Data
+  timeline: "October 2020"
+  organization:
+    name: Coursera Course Certificates
+    url: https://coursera.org
+  courseOverview: This course demonstrates how one can treat the Internet as a source of data. Students are trained to scrape, parse, and read web data, as well as access data using web APIs. Students work with HTML, XML, and JSON data formats in Python.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/Q5S7CT4DNZEE"
+
+- name: Professional Scrum Master (PSM 1)
+  timeline: "September 2020"
+  organization:
+    name: Scrum
+    url: https://scrum.org
+  courseOverview: The Professional Scrum Master I (PSM I) certification demonstrates a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams.
+  certificateURL: "https://www.scrum.org/certificates/579689"

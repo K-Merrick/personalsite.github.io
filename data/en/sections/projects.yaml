@@ -1,0 +1,118 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Telecom Churn Prediction
+  role: Developer
+  timeline: "Sept, 2021"
+  repo: https://github.com/K-Merrick/telecom_project # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Designed and implemented a custom stacking model, using gradient boosting base models, to predict customer churn with a goal of an AUC-ROC score of at least .88. Final score of stacked model was .963.
+  tags: ["stacking", "classification", "ensemble", "machine learning", "academic"]
+
+- name: Tabular Competition - Custom Stacking
+  role: Developer
+  timeline: "Sept, 2021"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.kaggle.com/merrickolivier/tabular-competition-stacking-with-optuna"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Created a notebook to demonstrate to colleagues how model stacking and hyperparameter tuning using Bayesian optimization is performed.
+  tags: ["stacking", "optuna", "ensemble", "machine learning", "hobby"]
+
+- name: Tabular Competition - Blending Ensemble
+  role: Developer
+  timeline: "Sept, 2021"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.kaggle.com/merrickolivier/blending-ensemble-for-classification"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Created a notebook to demonstrate to colleagues how model blending is performed. Notebook includes exploratory data analysis, missing value imputation, and custom functions to create and test blended model.
+  tags: ["blending", "classification", "ensemble", "machine learning", "hobby"]
+
+- name: Computer Vision - Age Prediction
+  role: Developer
+  timeline: "Aug, 2021"
+  repo: https://github.com/K-Merrick/age_recognition_project # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Created a custom ResNet50 deep learning model using Keras to preduct the age of customers from images. Employed an image data generator to periodically load batches of images.
+  tags: ["computer vision", "regression", "deep learning", "academic"]
+
+- name: Natural Language Processing - Sentiment Analysis
+  role: Developer
+  timeline: "Aug, 2021"
+  repo: https://github.com/K-Merrick/nlp_sentiment_analysis_project # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Trained and tested various models using NLTK, spaCy, TF-IDF,  and BERT to determine whether IMDB movie reviews were positive or negative.
+  tags: ["classification", "nlp", "deep learning", "academic"]
+
+- name: Time Series Forecasting
+  role: Developer
+  timeline: "July, 2021"
+  repo: https://github.com/K-Merrick/time_series_forecasting_project # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Conducted in-depth time-series analysis witht he goal of developing a regression model to predict hourly taxi orders. This involved stationarization using differencing, feature engineering, and developing/testing several regression models.
+  tags: ["regression", "time series", "machine learning", "academic"]
+
+- name: Game Sales Analysis
+  role: Developer
+  timeline: "June, 2021"
+  repo: https://github.com/K-Merrick/game_sales_analysis_project # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Carried out extensive data preprocessing and exploratory data analysis to uncover trends in worldwide game sales that may be used to create lucrative targeted advertisements. 
+  tags: ["data analysis", "visualization", "preprocessing", "academic"]
+
+- name: Gold Production Optimization
+  role: Developer
+  timeline: "June, 2021"
+  repo: https://github.com/K-Merrick/gold_production_optimization_project/blob/main/ProductionOptimizationProject.ipynb 
+  summary: Trained and evaluated several regression models to predict the amount of gold recovered via a complex extraction process from raw gold ore. This required extensive exploratory data analysis and data preprocessing, which included imputing nulls using the KNN method. 
+  tags: ["regression", "data analysis", "unsupervised learning", "supervised learning", "academic"]
+
+- name: Publication - Agent Reliabilism and Inferential Knowledge from Gettiered Belief
+  role: Developer
+  timeline: "June, 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://doi.org/10.1017/epi.2020.15"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Published (as single author in a top-rated philosophy journal) an in-depth research paper on acquiring inferential knowledge from non-knowledge. This possibility directly challenges the orthodox view that inferential knowledge can only be acquired from known premises.
+  tags: ["philosophy", "epistemology", "episteme", "academic"]
+
+- name: Cellular Plan Classification
+  role: Developer
+  timeline: "May, 2021"
+  #repo:  https://github.com/K-Merrick/cellular_plan_classification_project
+  summary: Developed and tested various machine learning classification models to predict which plan a callular service user should be placed on.
+  tags: ["classification", "machine learning", "data analysis", "academic"]
+
+- name: Insurance Benefit Prediction
+  role: Developer
+  timeline: "May, 2021"
+  #repo:  https://github.com/K-Merrick/insurance_benefits_project
+  summary: Project involved grouping similar customers using unsupervised learning, predicting whether a new customer is likely to receive an insurance benefit, predicting the number of insurance benefits a new customer is likely to receive, and masking clients' personal data using matrix transformation.
+  tags: ["regression", "machine learning", "exploratory data analysis", "academic"]
+
+- name: Oil Reserve Prediction
+  role: Developer
+  timeline: "May, 2021"
+  #repo:  https://github.com/K-Merrick/insurance_benefits_project
+  summary: The goal of this project was to build a model for predicting the volume of oil well reserves in various regions and, on the basis of the results, determine which region offers the highest potential for profit.
+  tags: ["classification", "machine learning", "exploratory data analysis", "academic"]
+
+- name: Vehicle Value Prediction
+  role: Developer
+  timeline: "June, 2021"
+  #repo:  https://github.com/K-Merrick/vehicle_value_regression_project
+  summary: Trained and tested various gradient-boosting algorithms in developing a model that predicts, with a low RMSE score, vehicles' values. Dataset required substantial preprocessing.
+  tags: ["regression", "machine learning", "data preprocessing", "academic"]
+

@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "I leverage the power of Python 3 in carrying out exploratory data analysis, data preprocessing, and training/testing machine learning models."
+  url: "https://www.python.org/"
+
+- name: Data Visualization
+  logo: "/images/sections/skills/visualization.png"
+  summary: "I primarily use Seaborn, a Python data visualization library based on matplotlib, for data visualization. It provides a high-level interface for creating attractive, customizable, and informative statistical graphics."
+
+- name: Deep Learning
+  logo: "/images/sections/skills/tf-icon.png"
+  summary: "I take advantage of various high- and low-level APIs, such as Keras, Tensorflow, and PyTorch for building neural networks. In training models, I use cloud-based GPUs to expedite the process."
+
+- name: Hyperparameter Optimization
+  logo: "/images/sections/skills/optuna.png"
+  summary: "To ensure that each model provides the optimal performance, I perform hyperparameter optimization using eith Optuna or Hyperopt. Trials are carried out on GPU for appropriate algorithms."
+
+- name: Data Analysis / Preprocessing
+  logo: "/images/sections/skills/pandas.png"
+  summary: "In carrying out exploratory data analysis, including statistical analysis, and data preprocessing, I frequently use the pandas, SciPy, and NumPy libraries, among others."
+
+- name: Machine Learning
+  logo: "/images/sections/skills/sklearn.png"
+  summary: "For developing traditional machine learning models, I often take advantage of the SciKit-Learn library, as well as popular gradient-boosting algorithms, such as CatBoost, LGBM, and XGBoost."
+
+- name: Scrum Master
+  logo: "/images/sections/skills/scrum.png"
+  summary: "In order to become an effective member of any technical team, I've acquire my Scrum Master certification. This framework was created to facilitate developing, delivering, and sustaining products in a complex environment. Recent projects have all been completed in two-week sprints."
+
+- name: General Data Science
+  logo: "/images/sections/skills/sql.png"
+  summary: "Additional skills relevant to the field of data science include, though are not limited to, the following: SQL, data mining, Spark, Git, GitHub, statistical analysis, computer vision, data preprocessing, data modeling, PySpark, cloud computing, and GPU training."
+
+- name: Soft Skills
+  logo: "/images/sections/skills/abd.png"
+  summary: "Throughout my career and education, I've developed soft skills that I've found beneficial to any professional endeavor. Such skills include critical thinking, research and analysis, project management, effective teaching, intellectual curiosity, and excellent communication skills, among others."

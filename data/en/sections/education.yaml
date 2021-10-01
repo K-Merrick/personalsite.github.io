@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Machine Learning / Data Scientist Professional Certification
+  icon: fa-university
+  timeframe: 2021-2021
+  institution:
+    name: Practicum by Yandex
+    url: "https://drive.google.com/file/d/1-z6oTr1AwJET1eVojq9luG74CYbl3bvf/view?usp=sharing"
+
+- name: Ph.D in Philosophy (Epistemology)
+  icon: fa-university
+  timeframe: 2017-2020
+  institution:
+    name: University of Aberdeen
+    url: "https://www.abdn.ac.uk/"
+  publications: #(optional)
+  - title: Agent Reliabilism and Inferential Knowledge from Gettiered Belief
+    url: "https://doi.org/10.1017/epi.2020.15"
+  - title: Inference, Testimony, and Virtue Epistemology - An Examination of Popular Constraints on Knowledge Acquisition from a Virtue-Theoretic Perspective.
+    url: "https://orcid.org/0000-0001-6236-2099"
+
+- name: Tutor Academy Master Course
+  icon: fa-university
+  timeframe: 2013-2014
+  institution:
+    name: Practicum by Yandex
+    url: "https://practicum.yandex.com/"
+
+- name: Masters in Philosophy (Epistemology)
+  icon: fa-university
+  timeframe: 2013-2014
+  institution:
+    name: University of Groningen
+    url: "https://www.rug.nl/?lang=en"
+  extracurricularActivities: #(optional)
+  - Nexus Student Association President.
+
+- name: Higher Secondary School Certificate
+  icon: fa-school
+  timeframe: 2021-2021
+  institution:
+    name: Practicum by Yandex
+    url: "https://practicum.yandex.com/"
+
+- name: Bachelors in Philosophy
+  icon: fa-university
+  timeframe: 2008-2012
+  institution:
+    name: University of Florida
+    url: "https://www.ufl.edu"

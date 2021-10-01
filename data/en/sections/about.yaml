@@ -1,0 +1,59 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Machine Learning Engineer / Data Scientist
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Resume Kevin Olivier.pdf"
+
+# a summary about you
+summary: "As a passionate data scientist, I focus on building and optimizing machine learning models to gain valuable insights from raw data. Recent projects have involved building neural networks for image classification and natural language processing, as well as constructing various stacked and blended models." 
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/K-Merrick"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kevin-m-olivier"
+
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url:  "https://www.kaggle.com/merrickolivier"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Communication
+  percentage: 90
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Critical Thinking
+  percentage: 100
+  color: green
+- name: Active Learning
+  percentage: 95
+  color: organge
+- name: Curiosity
+  percentage: 95
+  color: sky
+- name: Business Sense
+  percentage: 75
+  color: pink
