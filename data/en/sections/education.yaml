@@ -45,13 +45,6 @@ degrees:
   extracurricularActivities: #(optional)
   - Nexus Student Association President.
 
-- name: Higher Secondary School Certificate
-  icon: fa-school
-  timeframe: 2021-2021
-  institution:
-    name: Practicum by Yandex
-    url: "https://practicum.yandex.com/"
-
 - name: Bachelors in Philosophy
   icon: fa-university
   timeframe: 2008-2012
