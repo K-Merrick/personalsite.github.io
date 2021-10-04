@@ -17,6 +17,13 @@ degrees:
     name: Practicum by Yandex
     url: "https://drive.google.com/file/d/1-z6oTr1AwJET1eVojq9luG74CYbl3bvf/view?usp=sharing"
 
+- name: Tutor Academy Master Course
+  icon: fa-university
+  timeframe: 2021-2021
+  institution:
+    name: Practicum by Yandex
+    url: "https://practicum.yandex.com/"
+
 - name: Ph.D in Philosophy (Epistemology)
   icon: fa-university
   timeframe: 2017-2020
@@ -28,13 +35,6 @@ degrees:
     url: "https://doi.org/10.1017/epi.2020.15"
   - title: Inference, Testimony, and Virtue Epistemology - An Examination of Popular Constraints on Knowledge Acquisition from a Virtue-Theoretic Perspective.
     url: "https://orcid.org/0000-0001-6236-2099"
-
-- name: Tutor Academy Master Course
-  icon: fa-university
-  timeframe: 2013-2014
-  institution:
-    name: Practicum by Yandex
-    url: "https://practicum.yandex.com/"
 
 - name: Masters in Philosophy (Epistemology)
   icon: fa-university
