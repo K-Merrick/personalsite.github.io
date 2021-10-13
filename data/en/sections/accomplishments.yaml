@@ -19,6 +19,14 @@ accomplishments:
   courseOverview: Recommendation letter from the Practicum by Yandex administrators for the diligence with which I completed by degree and for my role as a Senior Student.
   certificateURL: "https://drive.google.com/file/d/1mG7BhNuG0a8dzB3M5nwKRXP1eb0dhQrZ/view?usp=sharing"
 
+- name: Neural Networks and Deep Learning
+  timeline: "October 2021"
+  organization:
+    name: DeepLearning.AI
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  courseOverview: This is the first course of the Deep Learning Specialization. The course involves building deep neural networks by hand, through the creation of functions for forward- and back-propagation.
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/ALLA5RF48ULN"
+
 - name: Accelerating Deep Learning with GPUs
   timeline: "September 2021"
   organization:
