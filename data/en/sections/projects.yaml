@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 projects:
+
+- name: Computer Vision - Water Meter Reading
+  role: Developer
+  timeline: "Nov, 2021"
+  repo: https://github.com/K-Merrick/water-meters # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: The aim of this project was to develop a program that can provide meter readings from photos of analog meters. I was provided with 1244 meter images with readings and accomanying masks of the reading portion of each meter. In order to extract readings, I first built and trained a UNet model to supply masks outlining the area of each meter with the meter reading. I then cropped the images using the mask and manually segmented 200+ meter readings; in doing so, I created boundinb boxes around each digit and appropriately labeled them. Next, I built and trained a Faster RCNN model to detect digits in images. While the predictions from this model did not provide the detected digits in order, I was able to organize them based on the x-coordinates of each digit's bounding box. The Faster RCNN model had a mAP score of around 90, which was better than expected for training on around 200 images. Finally, I created a meter-reading app and dockerized it along with its dependencies. 
+  tags: ["computer vision", "OCR", "deep learning", "UNet", "Faster RCNN", "hobby"]
+
 - name: Telecom Churn Prediction
   role: Developer
   timeline: "Sept, 2021"
