@@ -8,12 +8,10 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-
 - name: Microsoft Certified: Power BI Data Analyst Associate
-  timeline: December 2022"
+  timeline: "December 2022"
   organization:
     name: Microsoft
     url: https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/
@@ -21,15 +19,15 @@ accomplishments:
   certificateURL: "https://www.credly.com/earner/earned/badge/9866c28c-29df-4a35-9a28-b0a753448484"
 
 - name: Microsoft Certified: Power Platform App Maker Associate
-  timeline: December 2022"
+  timeline: "December 2022"
   organization:
     name: Microsoft
     url: https://learn.microsoft.com/en-us/certifications/power-platform-app-maker/
   courseOverview: This certification demonstrates proficiency in developing and maintaining Power Apps applications and related components.
-  certificateURL: "https://www.credly.com/earner/earned/badge/eaaaf702-9f6a-463d-ab4e-32736460cb75"
+  certificateURL: "https://www.credly.com/earner/earned/badge/eaaaf702-9f6a-463d-ab4e-32736460cb75/"
 
 - name: Microsoft Certified: Azure Data Fundamentals
-  timeline: December 2022"
+  timeline: "December 2022"
   organization:
     name: Microsoft
     url: https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/
@@ -37,7 +35,7 @@ accomplishments:
   certificateURL: "https://www.credly.com/earner/earned/badge/63aea0a2-a5de-4385-887f-ad6eee4dcc7a"
 
 - name: Microsoft Certified: Security, Compliance, and Identity Fundamentals
-  timeline: December 2022"
+  timeline: "December 2022"
   organization:
     name: Microsoft
     url: https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/
